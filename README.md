@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @jagadeem
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# StudentPerformancePrediction-ML
+This is a simple machine learning project using classifiers for predicting factors which affect student grades, using data from CSV file
 
-<!---
-jagadeem/jagadeem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+In this Project, a dataset which has students from nationalities, different grade levels and also soe determining factors like,
+number of hands raised, nuber attendances, number of hours studied etc. is used, which is a CSV File.
+
+
+And a few different classifiers and ML models have been used to get the most accurate predictions of which factors,
+affect the marks of students.
+
+A few visual aids like graphs and confusion matrix have been created, to show the results.
